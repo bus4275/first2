@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+        <meta charset="utf-8">
+        <title>이해강(20200876)</title>
+        <style>
+            h1{color: maroon;}
+            h2{color: tomato;}
+            nav{color: salmon;}
+
+        </style>
+    </head>
+
+    <body>
+        <header>
+        <h1>이해강</h1>
+          <nav><a href="#hana">One</a> 
+             <a href="#dul">Two</a> 
+             <a href="#set">Three</a>
+             <a href="#net">Four</a>
+          </nav>
+        </header>
+
+        <section>
+            <h2>내가 제일 좋아하는 음식</h2>
+            <ul>
+                <li>피자</li>
+                <li>곱창</li>
+                <li>떡볶이</li>
+                <li>막창</li>
+                <li>홈런볼</li>
+                <li>냠냠</li>
+            </ul>
+
+        </section>
+
+        <section>
+            <h2>나의 음식 선호도</h2>
+            <p> 곱창(100%) <progress value="100"></progress><br>
+                떡볶이(78%) <progress max="100" value="78"></progress><br>
+                피자(25%) <progress max="100" value="25"></progress>
+            
+            </p>
+        </section>
+
+        <section>
+            <h2>최근에 본 영화</h2>
+            <details open><summary>삼진그룹 영어토익반</summary>
+            
+        <p>입사 8년차 동기인 말단 여직원들이 '삼진그룹 영어토익반'에 모인다! 실무 능력 퍼펙트, 현실은 커피 타기 달인인 생산관리 3부 오지랖 '이자영'(고아성),
+            추리소설 마니아로 뼈 때리는 멘트의 달인 마케팅부 돌직구 '정유나'(이솜),
+            수학 올림피아드 우승 출신, 실체는 가짜 영수증 메꾸기 달인 회계부 수학왕 '심보람'(박혜수)
+            은 대리가 되면 진짜 '일'을 할 수 있을거라는 희망에 부푼다. <br>내부고발이라도 하게? 나서지 마. 우리만 다쳐.
+            잔심부름을 하러 간 공장에서 검은 폐수가 유출되는 것을 목격한 '자영'은 '유나','보람'과 함께
+            회사가 무엇을 감추고자 하는지, 결정적 증거를 찾으려 한다. 불가능해 보이는 싸움.
+            세 친구는 해고의 위험을 무릅쓰고 고군분투를 시작하는데...<br><mark>아이 캔 두 잇, 유 캔 두 잇, 위 캔 두 잇! ٩(*•̀ᴗ•́*)و </mark>
+            회사와 맞짱 뜨는 용감한 세 친구!
+            <br><br><a href="https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&mra=bkEw&x_csa=%7B%22isOpen%22%3Atrue%7D&pkid=68&os=10187633&query=%EC%82%BC%EC%A7%84%EA%B7%B8%EB%A3%B9%20%EC%98%81%EC%96%B4%ED%86%A0%EC%9D%B5%EB%B0%98%20%EC%A0%95%EB%B3%B4">출처</a>
+
+        </p></details>
+        </section>
+        <br>
+
+        <footer>
+            <p>
+                <img src="https://file2.nocutnews.co.kr/newsroom/image/2020/09/11/20200911112424825996_0_710_1018.jpg" width="20%" height="20%">
+            <br>이 페이지는 <b>20200876 이해강</b>에 의해 만들어졌습니다.
+            더 자세히 알고 싶으면 <a href="http://www.instagram.com">저의 인스타그램</a>
+            을 방문해주세요.
+            
+            </p>
+        </footer>
+
+    
+    
+
+    </body>
+</html>
